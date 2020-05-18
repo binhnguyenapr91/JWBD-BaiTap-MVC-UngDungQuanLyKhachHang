@@ -1,16 +1,16 @@
 <%--
   Created by IntelliJ IDEA.
   User: binhnguyen
-  Date: 16/05/2020
-  Time: 00:38
+  Date: 18/05/2020
+  Time: 09:03
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Welcome</title>
+    <title>404 error page</title>
 </head>
 <body>
-<h1>${message}</h1>
+<h1> Not found</h1>
 </body>
 </html>
